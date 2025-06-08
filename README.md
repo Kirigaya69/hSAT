@@ -71,5 +71,5 @@ Bots can go trade memecoins.
 
 ---
 
-**No inflation. No permissions. No trust.  
+**No permissions. No trust.  
 Just Hyperliquid satoshis — locked in deep.**
