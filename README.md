@@ -7,7 +7,7 @@
 
 ## 🖤 What the F**k Is This?
 
-**Hyper Sats (hSAT)** is a fully trustless ERC-20 that wraps sats on-chain — no middlemen, no multisigs, no BS.  
+**Hyper Sats (hSAT)** is a fully trustless ERC-20 that wraps sats on-chain.  
 Mint by sending uBTC. Liquidity gets locked. Forever.
 
 No presale. No VC allocations. No whitelist.  
